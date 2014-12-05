@@ -1,4 +1,4 @@
 HereRush
 ========
 
-my little game
+This is my little game
